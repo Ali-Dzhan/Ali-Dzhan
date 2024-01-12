@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Ali-Dzhan 👋 </h1>
 
-<!--
-**Ali-Dzhan/Ali-Dzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ali-Dzhan" alt="Ali-Dzhan" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently studying Computer Science and Engineering
+- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ali-dzhan-sadak-42a586281/) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:alidzhansadak04@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I like ![Visual sudio]https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+## Some Statistics About Me
+![Ali-Dzhan's github stats](https://github-readme-stats.vercel.app/api?username=Ali-Dzhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+
+⭐️ From [Ali-Dzhan](https://github.com/Ali-Dzhan)
