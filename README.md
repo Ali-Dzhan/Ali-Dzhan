@@ -1,4 +1,5 @@
 <h1 align="center"> Hello, I'm Ali-Dzhan 👋 </h1>
+<h3 align="center"> Computer Science Student 👽 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ali-Dzhan" alt="Ali-Dzhan" /> </p>
 
@@ -38,6 +39,15 @@
 ## Some Statistics About Me
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ali-Dzhan&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Dzhan&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+### Certificates 
+
+| Course        | GitHub repo | Grade | Issue date | Certificate |
+| ------------- | ----------- | ----- | ---------- | ----------- |
+| [Java Advanced course](https://softuni.bg/trainings/4374/java-advanced-january-2024) | [Link](https://github.com/Dimitar-Peev/03.Java-Advanced-January-2024) | 0.00 | January 2024 | [Java Advanced certificate] |
+| [Java Fundamentals course](https://softuni.bg/trainings/4220/programming-fundamentals-with-java-september-2023) | [Link](https://github.com/Dimitar-Peev/02.PF-Java-September-2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/certificates/details/195140/4b98aaf6) |
+| [Java Basics course](https://softuni.bg/trainings/4160/programming-basics-with-java-july-2023) | [Link](https://github.com/Dimitar-Peev/01.PB-Java-July-2023) | 6.00 | July 2023 | [Java Basics certificate](https://softuni.bg/certificates/details/182553/ca9a0a1d) |
 
 
 ⭐️ From [Ali-Dzhan](https://github.com/Ali-Dzhan)
