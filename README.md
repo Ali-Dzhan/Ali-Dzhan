@@ -36,6 +36,8 @@
 - ⚡ Fun fact: I like ![Visual studio Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) and ![Intelij Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## Some Statistics About Me
-![Ali-Dzhan's github stats](https://github-readme-stats.vercel.app/api?username=Ali-Dzhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ali-Dzhan&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Dzhan&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 ⭐️ From [Ali-Dzhan](https://github.com/Ali-Dzhan)
