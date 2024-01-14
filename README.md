@@ -48,8 +48,8 @@
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
 | [Java Advanced course](https://softuni.bg/trainings/4374/java-advanced-january-2024) | [Link]() | 0.00 | January 2024 | [Java Advanced certificate] |
-| [Java Fundamentals course](https://softuni.bg/trainings/4220/programming-fundamentals-with-java-september-2023) | [Link](Java_Fundamentals_Sept_2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/certificates/details/195175/ecbdf055) |
-| [Java Basics course](https://softuni.bg/trainings/3872/programming-basics-with-java-october-2022) | [Link](Programming_basics_Oct_2022) | 6.00 | October 2022 | [Java Basics certificate](https://softuni.bg/certificates/details/147404/94fa0350) |
+| [Java Fundamentals course](https://softuni.bg/trainings/4220/programming-fundamentals-with-java-september-2023) | [Link](https://github.com/Ali-Dzhan/SoftUni-Courses/tree/main/Java_Fundamentals_Sept_2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/certificates/details/195175/ecbdf055) |
+| [Java Basics course](https://softuni.bg/trainings/3872/programming-basics-with-java-october-2022) | [Link](https://github.com/Ali-Dzhan/SoftUni-Courses/tree/main/Programming_basics_Oct_2022) | 6.00 | October 2022 | [Java Basics certificate](https://softuni.bg/certificates/details/147404/94fa0350) |
 
 
 ⭐️ From [Ali-Dzhan](https://github.com/Ali-Dzhan)
