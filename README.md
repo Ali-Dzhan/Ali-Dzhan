@@ -42,8 +42,9 @@
 
 
 ### Certificates from 
+<a href = "https://softuni.bg/">
 <img src="https://github.com/Ali-Dzhan/Ali-Dzhan/assets/118597212/d5ff139d-56f9-4d59-adf2-1b74103d25ee" width="100">
-
+</a>
 
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
