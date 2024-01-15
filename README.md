@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ali-Dzhan" alt="Ali-Dzhan" /> </p>
 
-- 🌱 I’m currently studying Computer Science and Engineering in Technical University of Varna ![logo_tu](https://github.com/Ali-Dzhan/Ali-Dzhan/assets/118597212/599b9bbd-493b-4ebc-aa6d-ea6c7e7a4cee)
+- 🌱 I’m currently studying Computer Science and Engineering in Technical University of Varna [![logo_tu](https://github.com/Ali-Dzhan/Ali-Dzhan/assets/118597212/599b9bbd-493b-4ebc-aa6d-ea6c7e7a4cee)](https://www1.tu-varna.bg/tu-varna/)
 
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ali-dzhan-sadak-42a586281/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:alidzhansadak04@gmail.com)
