@@ -48,7 +48,7 @@
 
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
-| [HTML&CSS course](https://softuni.bg/trainings/4528/html-and-css-may-2024) | [Link](https://github.com/Ali-Dzhan/SoftUni-Courses/tree/main/HTML%26CSS_May_2024) | --- | May 2024 | [HTML&CSS certificate] |
+| [HTML&CSS course](https://softuni.bg/trainings/4528/html-and-css-may-2024) | [Link](https://github.com/Ali-Dzhan/SoftUni-Courses/tree/main/HTML%26CSS_May_2024) | 6.00 | May 2024 | [HTML&CSS certificate](https://softuni.bg/certificates/details/218529/aa744ae6) |
 | [Java OOP course](https://softuni.bg/trainings/4375/java-oop-february-2024) | [Link](https://github.com/Ali-Dzhan/SoftUni-Courses/tree/main/Java_OOP_February_2024) | 6.00 | February 2024 | [Java OOP certificate](https://softuni.bg/certificates/details/211109/79587327) |
 | [Java Advanced course](https://softuni.bg/trainings/4374/java-advanced-january-2024) | [Link](https://github.com/Ali-Dzhan/SoftUni-Courses/tree/main/Java_Advanced_Jan_2024) | 6.00 | January 2024 | [Java Advanced certificate](https://softuni.bg/certificates/details/203433/a7222c00) |
 | [Java Fundamentals course](https://softuni.bg/trainings/4220/programming-fundamentals-with-java-september-2023) | [Link](https://github.com/Ali-Dzhan/SoftUni-Courses/tree/main/Java_Fundamentals_Sept_2023) | 6.00 | September 2023 | [Java Fundamentals certificate](https://softuni.bg/certificates/details/195175/ecbdf055) |
