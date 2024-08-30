@@ -49,7 +49,7 @@
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
 | [My SQL course](https://softuni.bg/trainings/4709/mysql-september-2024) | [Link]() | --- | September 2024 | [My SQL certificate] |
-| [JS Front-End course](https://softuni.bg/trainings/4531/js-front-end-june-2024) | [Link] | 6.00 | June 2024 | [JS Front-End certificate](https://softuni.bg/certificates/details/223943/430fd52f) |
+| [JS Front-End course](https://softuni.bg/trainings/4531/js-front-end-june-2024) | [Link](https://github.com/Ali-Dzhan/SoftUni-Courses/tree/main/JS%20Front-End) | 6.00 | June 2024 | [JS Front-End certificate](https://softuni.bg/certificates/details/223943/430fd52f) |
 | [HTML&CSS course](https://softuni.bg/trainings/4528/html-and-css-may-2024) | [Link](https://github.com/Ali-Dzhan/SoftUni-Courses/tree/main/HTML%26CSS_May_2024) | 6.00 | May 2024 | [HTML&CSS certificate](https://softuni.bg/certificates/details/218529/aa744ae6) |
 | [Java OOP course](https://softuni.bg/trainings/4375/java-oop-february-2024) | [Link](https://github.com/Ali-Dzhan/SoftUni-Courses/tree/main/Java_OOP_February_2024) | 6.00 | February 2024 | [Java OOP certificate](https://softuni.bg/certificates/details/211109/79587327) |
 | [Java Advanced course](https://softuni.bg/trainings/4374/java-advanced-january-2024) | [Link](https://github.com/Ali-Dzhan/SoftUni-Courses/tree/main/Java_Advanced_Jan_2024) | 6.00 | January 2024 | [Java Advanced certificate](https://softuni.bg/certificates/details/203433/a7222c00) |
