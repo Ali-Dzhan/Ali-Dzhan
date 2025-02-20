@@ -58,4 +58,8 @@
 | [Java Basics course](https://softuni.bg/trainings/3872/programming-basics-with-java-october-2022) | [Link](https://github.com/Ali-Dzhan/SoftUni-Courses/tree/main/Programming_basics_Oct_2022) | 6.00 | October 2022 | [Java Basics certificate](https://softuni.bg/certificates/details/147404/94fa0350) |
 
 
+### Other Certificates
+
+
+
 ⭐️ From [Ali-Dzhan](https://github.com/Ali-Dzhan)
