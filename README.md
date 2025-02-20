@@ -48,6 +48,7 @@
 
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
+| [Spring Fundamentals course](https://softuni.bg/trainings/4843/spring-fundamentals-january-2025) | [Link](https://github.com/Ali-Dzhan/Close-Encounters) | 5.54 | January 2025 | [Spring Fundamentals certificate](https://softuni.bg/certificates/details/237639/48e4d0db) |
 | [Spring Data course](https://softuni.bg/trainings/4710/spring-data-october-2024) | [Link](https://github.com/Ali-Dzhan/SoftUni-Courses/tree/main/Spring%20Data) | 6.00 | October 2024 | [Spring Data certificate](https://softuni.bg/certificates/details/231164/14f45226) |
 | [My SQL course](https://softuni.bg/trainings/4709/mysql-september-2024) | [Link]() | 6.00 | September 2024 | [My SQL certificate](https://softuni.bg/certificates/details/226136/1bef9b12) |
 | [JS Front-End course](https://softuni.bg/trainings/4531/js-front-end-june-2024) | [Link](https://github.com/Ali-Dzhan/SoftUni-Courses/tree/main/JS%20Front-End) | 6.00 | June 2024 | [JS Front-End certificate](https://softuni.bg/certificates/details/223943/430fd52f) |
