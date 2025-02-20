@@ -59,7 +59,7 @@
 
 
 ### Other Certificates
-
+IELTS ACADEMIC - [📄 View Certificate](https://github.com/Ali-Dzhan/IELTS/blob/main/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.pdf)
 
 
 ⭐️ From [Ali-Dzhan](https://github.com/Ali-Dzhan)
